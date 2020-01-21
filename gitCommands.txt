@@ -3,3 +3,6 @@ git status
 git add .
 git commit -m "added test comment"
 git push origin dev-search-rohit
+
+git push
+git merge <branch-name>
