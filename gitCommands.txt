@@ -1,3 +1,5 @@
+git restore --staged react-task-tracker
+
 git checkout dev-search-rohit
 git status
 git add .
